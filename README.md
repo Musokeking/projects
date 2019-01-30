@@ -1,3 +1,3 @@
 # projects
 Python file
-This is a file containing python files
+This contains python work that s written in python 3
